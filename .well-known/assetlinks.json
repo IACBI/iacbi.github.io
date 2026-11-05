@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.podcastplayer.app",
+      "sha256_cert_fingerprints": [
+        "BC:B0:A0:63:94:1A:E4:61:65:5F:22:83:FB:E4:44:A4:4C:56:93:57:02:CE:48:0E:E0:07:B4:57:22:EB:14:AE"
+      ]
+    }
+  }
+]
